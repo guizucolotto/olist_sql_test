@@ -78,6 +78,8 @@ Traduz os product_category_name para Inglês.
     - Liste as 5 cidades com mais pedidos.
 4. **Tempo de Entrega:**
     - Calcule o tempo médio de entrega dos pedidos.
+5. **Extra**
+    - Qualquer insight ou informação que você ache relevante para apresentar suas capacidades no desafio apresentado
 
 **Achados Esperados:**
 
@@ -85,7 +87,7 @@ Espera-se que os candidatos demonstrem habilidades em:
 
 - Criar consultas SQL eficientes e bem estruturadas.
 - Estabelecer relacionamentos adequados entre as tabelas.
-- Apresentar resultados de forma clara e organizada.
+- Apresentar resultados de forma clara e organizada (excel, powe bi, ou qualquer forma que lhe seja mais familiar para apresentação de relatório).
 - Interpretar os dados para extrair insights relevantes sobre as vendas da Olist.
 
 Boa sorte!
